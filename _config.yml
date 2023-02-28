@@ -31,7 +31,7 @@ url: "https://general-scripting.com" # the base hostname & protocol for your sit
 github_username:  GeneralScripting
 
 logo:     #optional, defaults to site title
-  path: assets/img/logo-dark.svg
+  path: /assets/img/logo-dark.svg
   # height: 60 #height in px, defaults to 52px
 
 collections:
